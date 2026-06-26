@@ -1,17 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,30:11182E,65:1A1B3A,100:0B1020&text=0x1&fontColor=C9D1FF&fontSize=52&fontAlignY=38&desc=c%23%20%2F%20c%2B%2B%20%2F%20backend%20%2F%20gamedev&descAlignY=58&animation=fadeIn" width="100%" />
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=900&color=7DD3FC&center=true&vCenter=true&width=900&lines=gamedev+%2F+3d+modeling;c%23+%2F+c%2B%2B+%2F+backend" />
-
-</div>
-
-<br>
-
-
----
 
 ## about
 
